@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.navbar{
+  background-color: #22668A;
+}
+
+.category-aktif{
+  background-color: #22668A;
+  color: white;
+}
+.btn-primary{
+  background-color: #22668A;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
